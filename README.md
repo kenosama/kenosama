@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenosama
-- 👀 I’m interested in RPG, FVTT.
+- 👀 I’m interested in RPG, FVTT, web developement.
 - 🌱 I’m currently learning how to make systems and worlds in foundryvtt
 - 💞️ I’m looking to collaborate on FVTT
 - 📫 How to reach me discord
