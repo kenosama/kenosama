@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kenosama
-- 👀 I’m interested in RPG, FVTT, web developement.
+- 👋 Hi, I’m Thomas
+- 👀 I’m interested in web developement, fvtt, ttrpg.
 - 🌱 I’m currently learning how to make systems and worlds in foundryvtt
-- 💞️ I’m looking to collaborate on FVTT
-- 📫 How to reach me discord
+
